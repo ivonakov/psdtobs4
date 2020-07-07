@@ -1,6 +1,8 @@
 # PSD to Landing Page [with Bootstrap 4](https://getbootstrap.com/)
 The goals are to slice psd template to landing page with minimal usage of third party or custom code.
 
+[![demo_index_slise](https://github.com/ivonakov/psdtobs4/raw/develop/demo_index_slise.jpg)]
+
 ### How to use
 
 The template is built with Sass and Gulp build system. Built-in BrowserSync server - will automatically reload your page when any of the files in the directory `src` are changed. 
